@@ -5,3 +5,5 @@ jai shree ram bhaysaaryane
 hello mfkers
 
 this is for learning diff command
+
+this line is for --staged
